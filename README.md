@@ -112,26 +112,26 @@ Develop route profitability dashboards with dynamic what-if simulations.
 
 ## 🗂️ Repository Structure
 rex-airlines-analysis/
-│
+
 ├── data/
-│   └── rex_airlines_dataset.csv
-│
+    └── rex_airlines_dataset.csv
+
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_dashboard_visualizations.ipynb
-│   └── 04_predictive_modelling.ipynb
-│
+    ├── 01_data_cleaning.ipynb
+    ├── 02_exploratory_analysis.ipynb
+    ├── 03_dashboard_visualizations.ipynb
+    └── 04_predictive_modelling.ipynb
+
 ├── assets/
-│   ├── rex_airlines_banner.jpg
-│   ├── operations_dashboard.png
-│   ├── delay_dashboard.png
-│   ├── revenue_dashboard.png
-│   └── cancellations_dashboard.png
-│
+    ├── rex_airlines_banner.jpg
+    ├── operations_dashboard.png
+    ├── delay_dashboard.png
+    ├── revenue_dashboard.png
+    └── cancellations_dashboard.png
+
 ├── reports/
-│   └── REX_Airlines_Analysis_Report.pdf
-│
+    └── REX_Airlines_Analysis_Report.pdf
+
 └── README.md
 
 ## 🚀 How to Run
