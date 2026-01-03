@@ -59,25 +59,24 @@ Version Control	Git / GitHub
 ### 1. Flight Operations Dashboard
 
 Visualizes the total flights, average delay, and route network density.
-📸 Placeholder for Power BI or Tableau screenshot
 ![Operations Dashboard](assets/operations_dashboard.png)
 
 ### 2. Punctuality & Delay Insights
 
 Analyzes departure and arrival delays by airport, route, and aircraft type.
-📸 Placeholder for delay analysis chart
+
 ![Delay Dashboard](assets/delay_dashboard.png)
 
 ### 3. Revenue and Fare Performance
 
 Shows revenue by fare class, average price per kilometer, and occupancy rates.
-📸 Placeholder for revenue visualization
+
 ![Revenue Dashboard](assets/revenue_dashboard.png)
 
 ### 4. Cancellations and Reliability
 
 Explores patterns in flight cancellations and identifies operational risk areas.
-📸 Placeholder for cancellation breakdown chart
+
 ![Cancellations Dashboard](assets/cancellations_dashboard.png)
 
 ## 📈 Analysis Highlights
@@ -160,8 +159,8 @@ Tableau: dashboards/rex_dashboard.twbx
 
 ## 👨‍💻 Author
 
-Aaron Rijal
-📍 Oak Park, VIC, Australia
+Apil Rijal
+📍 Burwood, NSW, Australia
 📧 aaronrijal43@gmail.com
 
 🔗 LinkedIn
